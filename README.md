@@ -14,7 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,firebase,express)
 ### My Activity:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shopnil2001&theme=black-ice&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shopnil2001&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shopnil2001&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shopnil2001&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shopnil2001&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shopnil2001&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shopnil2001&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shopnil2001&theme=highcontrast)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shopnil2001&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shopnil2001&theme=highcontrast)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shopnil2001&theme=highcontrast&utcOffset=8)
 
