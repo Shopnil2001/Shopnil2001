@@ -1,5 +1,5 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/9hLLxZ2/Shopnill-Final.jpg)
-### Hi ther 👋 Scroll to learn about me
+### Hi their 👋 Scroll to learn about me
 ### Some Info of me:
 
 - 🔭 I’m currently working on React js
@@ -10,7 +10,7 @@
 ### Connect with me:
 [![instagram](https://i.ibb.co/R6QHVpr/3225191-app-instagram-logo-media-popular-icon.png)](https://instagram.com/abdullahaiyash?igshid=NzZlODBkYWE4Ng==) [![facebook](https://i.ibb.co/jgNDx7n/5296499-fb-facebook-facebook-logo-icon.png)](https://www.facebook.com/profile.php?id=100009044277654)
 
-### I experienced with:
+### I am experienced with:
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,firebase,express)
 ### My Activity:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shopnil2001&theme=black-ice&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
